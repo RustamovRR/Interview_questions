@@ -1,1 +1,24 @@
+  //////////////////////////////JAVASCRIPT////////////////////
+  1. What do position:fixed and position:relative?
+  2. How to centered inner-block div?
+  3. Why need html main, header, footer tags?
+  4. What is SEO optimization and why do we need this?
+  5. Talk about Eslint and Prettier
+  6. What is CI/CD and how do it is?
+  7. What is pure function?
+  8. Talk about bind, call, apply
+  9. Arrow function vs function
+  10. Why do need Git?
 
+
+/////////////////////////////REACT////////////////////////////
+  1. What is React and how work it?
+  2. Which primary lifecycle methods in React?
+  3. What is pure component and what's difference from simple component?
+  4. What is VirtualDOM and what's difference from DOM?
+  5. Why do we need to import React?
+  6. What Hooks do you know in React?
+  7. What is React.forwardRef?
+  8. What is refs in React?
+  9. If any props changes, which lifecycle method we use?
+  10. Do React Hooks cover all lifecycle methods?
